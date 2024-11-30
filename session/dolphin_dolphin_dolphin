@@ -1,0 +1,12 @@
+[1]
+Active Tab Index=0
+Tab Count=1
+Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x00?file:///home/ryan/Pictures/Wallpaper/Everforest%20-%20Solarized\x00\x00\x00\x00\x01\x00\x00\x00nfile:///home/ryan/Pictures/Wallpaper/Everforest%20-%20Solarized/a_aerial_view_of_a_snowy_mountain_range_01.jpg\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[WindowProperties1]
+ClassName=DolphinMainWindow
+MenuBar=Disabled
+ObjectName=Dolphin#1
+
+[WindowProperties1][Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
